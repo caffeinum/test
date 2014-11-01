@@ -22,7 +22,7 @@ $(function () {
 		}
 		
 	}
-	function () {
+	function left() {
 	}
 	
 	button.addEventListener('mouseover', runAway);
