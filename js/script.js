@@ -22,6 +22,8 @@ $(function () {
 		}
 		
 	}
+	function () {
+	}
 	
 	button.addEventListener('mouseover', runAway);
 	button2.addEventListener('mouseover', runAway);
